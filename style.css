@@ -1,0 +1,24 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-items: center;
+} */
+
+.heading {
+  color : rgb(66, 133, 244);
+}
+
+.speaker-list {
+    list-style: none;
+    background-color: aquamarine;
+    padding: 1rem;
+}
+#count {
+   font-size: 25px;
+   color: blueviolet;
+}
+.counter-btn {
+  width:100px;
+
+}
